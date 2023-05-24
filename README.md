@@ -48,10 +48,10 @@ and musician all life long 🎼🎸🎤🎹🎹🎹🎹🎹🎹🎹🥁</p>
 <section>
 <h2> GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
-![Dmitriy Frostoff's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Dmitriy-Frostoff&show_icons=true&theme=radical&count_private=true)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dmitriy-Frostoff&show_icons=true&theme=tokyonight&count_private=true" alt="Dmitriy Frostoff's GitHub stats"/>
 
 <a href="https://github.com/Dmitriy-Frostoff"></a>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmitriy-Frostoff&theme=radical&layout=compact" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dmitriy-Frostoff&theme=radical"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmitriy-Frostoff&theme=tokyonight&layout=compact" alt="profile-details"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dmitriy-Frostoff&theme=tokyonight" alt="repos-per-language"/>
 </section>
 <!--GitHub Stats end-->
