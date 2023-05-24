@@ -16,6 +16,7 @@ Positive, sympathetic, responsible, friendly person that likes learning how to l
 ![Scss](https://img.shields.io/badge/-scss-090909?style=for-the-badge&logo=sass)
 ![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
 ![Python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23090909.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📱 Contact me     
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Dmitriy_Frostoff)
