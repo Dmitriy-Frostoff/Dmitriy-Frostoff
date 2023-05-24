@@ -22,6 +22,7 @@ Positive, sympathetic, responsible, friendly person that likes learning how to l
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Dmitriy_Frostoff)
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord)](https://discord.com/channels/@Dmitriy-Frostoff#9603)
 [![Codewars](https://img.shields.io/badge/-Codewars-090909?style=for-the-badge&logo=Codewars&logoColor=%23E34234)](https://www.codewars.com/users/rsschool_78dcfb24c923f558)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-090909?style=for-the-badge&logo=stack-overflow&logoColor=%23FF4433)](https://stackoverflow.com/users/20705648/dmitriy-frostoff)
 
 ![Dmitriy Frostoff's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Dmitriy-Frostoff&show_icons=true&theme=radical&count_private=true)
 
