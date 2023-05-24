@@ -12,10 +12,11 @@ Positive, sympathetic, responsible, friendly person that likes learning how to l
     
 
 ### 🛠 Languages and technologies       
-![JavaScript](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript)
-![Scss](https://img.shields.io/badge/-scss-090909?style=for-the-badge&logo=sass)
-![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
-![Python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/-javascript-%23090909?style=for-the-badge&logo=javascript)
+![CSS3](https://img.shields.io/badge/css3-%23090909.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)
+![Scss](https://img.shields.io/badge/-scss-%23090909?style=for-the-badge&logo=sass)
+![HTML](https://img.shields.io/badge/-HTML5-%23090909?style=for-the-badge&logo=HTML5)
+![Python](https://img.shields.io/badge/python-%23090909?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23090909.svg?style=for-the-badge&logo=git&logoColor=white&logoColor=%23E34234)
 
 ### 📱 Contact me     
