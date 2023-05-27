@@ -6,7 +6,7 @@
 <h2>About me</h2>    
 <p>I'm Dmitriy Morozov (or as I prefer in most conditions Dmitriy Frostoff) <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" height="32" width="32"><br>
 Civil construction engineer in the past, <br>
-trainee Frontend engineer in present <br>
+trainee Frontend developer in present <br>
 and musician all life long 🎼🎸🎤🎹🎹🎹🎹🎹🎹🎹🥁</p>
 <p><img src="https://user-images.githubusercontent.com/74038190/238200839-9c351cb9-c9a2-4b20-8420-e96b8331a53b.gif" height="32"> <br>Positive, sympathetic, responsible, friendly person that likes learning how to learn to reach mastery in interesting business.</p>
 <img src="https://i.pinimg.com/originals/17/bc/93/17bc93709623f3d656249027fb1df1ff.gif" alt="Grogu enjoy trip" height=75px> <img src="https://media.tenor.com/9vZ20T7kkvAAAAAC/baby-yoda.gif" alt="Grogu meditate" height=75px>
