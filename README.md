@@ -25,8 +25,14 @@ and musician all life long 🎼🎸🎤🎹🎹🎹🎹🎹🎹🎹🥁</p>
 ![Git](https://img.shields.io/badge/git-%23090909.svg?style=for-the-badge&logo=git&logoColor=white&logoColor=%23E34234)
 </section>
 <!--Languages and technologies end-->
-
+<!--Codewars info start-->
+<section>
+  <h2><img src="https://camo.githubusercontent.com/4daf80f5cc6dd6a5c1d0f0f95f1b8e1815038df7638591d682fcceafeac5839e/68747470733a2f2f6769742e696f2f4a4d643461" alt="codewars logo" width="32px"> Codewars stats &nbsp;<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFlODRhM2I5M2EzN2JjNjhiMzkyZjg1OWNlMGI5NmQ5NzdlMmUyMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/A06UFEx8jxEwU/giphy.gif" width=48px></h2>
+  <img src="https://www.codewars.com/users/rsschool_78dcfb24c923f558/badges/large">
+</section>
+<!--Codewars info end-->
 <!--Contact me start-->
+<section>
 <h2> 📱 Contact me <img src='https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/handshake.gif' width="75px"></h2>    
 
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Dmitriy_Frostoff)
@@ -45,5 +51,6 @@ and musician all life long 🎼🎸🎤🎹🎹🎹🎹🎹🎹🎹🥁</p>
 <a href="https://github.com/Dmitriy-Frostoff"></a>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmitriy-Frostoff&theme=tokyonight&layout=compact" alt="profile-details"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dmitriy-Frostoff&theme=tokyonight" alt="repos-per-language"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dmitriy-Frostoff&theme=tokyonight"/>
 </section>
 <!--GitHub Stats end-->
