@@ -18,9 +18,12 @@ and musician all life long 🎼🎸🎤🎹🎹🎹🎹🎹🎹🎹🥁</p>
 <h2>🛠 Languages and technologies <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2>   
 
 ![JavaScript](https://img.shields.io/badge/-javascript-%23090909?style=for-the-badge&logo=javascript)
+![Webpack](https://img.shields.io/badge/-typescript-%23090909?style=for-the-badge&logo=typescript)
+![Webpack](https://img.shields.io/badge/-webpack-%23090909?style=for-the-badge&logo=webpack)
 ![CSS3](https://img.shields.io/badge/css3-%23090909.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)
 ![Scss](https://img.shields.io/badge/-scss-%23090909?style=for-the-badge&logo=sass)
 ![HTML](https://img.shields.io/badge/-HTML5-%23090909?style=for-the-badge&logo=HTML5)
+![Pug](https://img.shields.io/badge/Pug-CCC5B2?style=for-the-badge&logo=pug&logoColor=8F6905)
 ![Python](https://img.shields.io/badge/python-%23090909?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23090909.svg?style=for-the-badge&logo=git&logoColor=white&logoColor=%23E34234)
 </section>
