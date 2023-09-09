@@ -27,6 +27,7 @@ and musician all life long 🎼🎸🎤🎹🎹🎹🎹🎹🎹🎹🥁</p>
 ![Pug](https://img.shields.io/badge/Pug-CCC5B2?style=for-the-badge&logo=pug&logoColor=8F6905)
 ![Python](https://img.shields.io/badge/python-%23090909?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23090909.svg?style=for-the-badge&logo=git&logoColor=white&logoColor=%23E34234)
+![VSCode](https://img.shields.io/badge/VSCode-%23090909?style=for-the-badge&logo=visual%20studio%20code&logoColor=%231572B6)
 </section>
 <!--Languages and technologies end-->
 <!--Codewars info start-->
