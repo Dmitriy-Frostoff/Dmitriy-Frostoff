@@ -33,7 +33,7 @@ and musician all life long 🎼🎸🎤🎹🎹🎹🎹🎹🎹🎹🥁</p>
 <!--Codewars info start-->
 <section>
   <h2><img src="https://camo.githubusercontent.com/4daf80f5cc6dd6a5c1d0f0f95f1b8e1815038df7638591d682fcceafeac5839e/68747470733a2f2f6769742e696f2f4a4d643461" alt="codewars logo" width="32px"> Codewars stats &nbsp;<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFlODRhM2I5M2EzN2JjNjhiMzkyZjg1OWNlMGI5NmQ5NzdlMmUyMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/A06UFEx8jxEwU/giphy.gif" width=48px></h2>
-  <a href="https://www.codewars.com/users/rsschool_78dcfb24c923f558"><img src="https://www.codewars.com/users/rsschool_78dcfb24c923f558/badges/large"></a>
+  <a href="https://www.codewars.com/users/rsschool_78dcfb24c923f558" target="_blank"><img src="https://www.codewars.com/users/rsschool_78dcfb24c923f558/badges/large"></a>
 </section>
 <!--Codewars info end-->
 <!--Contact me start-->
