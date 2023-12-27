@@ -41,6 +41,7 @@ and musician all life long 🎼🎸🎤🎹🎹🎹🎹🎹🎹🎹🥁</p>
 <h2> 📱 Contact me <img src='https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/handshake.gif' width="75px"></h2>    
 
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Dmitriy_Frostoff)
+[![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)]([https://t.me/Dmitriy_Frostoff](https://www.instagram.com/dmitriy.frostoff/))
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord)](https://discord.com/channels/@Dmitriy-Frostoff#9603)
 [![Codewars](https://img.shields.io/badge/-Codewars-090909?style=for-the-badge&logo=Codewars&logoColor=%23E34234)](https://www.codewars.com/users/rsschool_78dcfb24c923f558)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-090909?style=for-the-badge&logo=stack-overflow&logoColor=%23FF4433)](https://stackoverflow.com/users/20705648/dmitriy-frostoff)
