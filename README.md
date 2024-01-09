@@ -14,7 +14,10 @@
 <!--about me end-->
 <!--Languages and technologies start-->
 <section>
-  <h2>🛠 Technical knowledge <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2>   
+  <h2>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGx4aThxcXd2MXJ4a3BvcjJlZnVybmRtNjhvdGNsNTE5c2VnN3ltcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QZgmnqMZzT9jv5plSA/giphy.gif" width=32px alt="magic wand gif">
+    Technical knowledge
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2>   
   <div>
     <p>
       📋 Languages
