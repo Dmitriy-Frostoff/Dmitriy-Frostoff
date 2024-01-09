@@ -49,6 +49,16 @@
     <img src="https://img.shields.io/badge/-gulp-%23090909?style=for-the-badge&logo=gulp" alt="Gulp badge"/>
   </div>
   <div>
+  <div>
+    <p>
+      📐 Code formatting
+      <img src="https://media.tenor.com/3nT-5pb890wAAAAj/sparkle.gif" width=32px>
+    </p>
+    <img src="https://img.shields.io/badge/-ESLint-%23090909?style=for-the-badge&logo=ESLint&logoColor=341BAB" alt="ESLint badge"/>
+    <img src="https://img.shields.io/badge/-prettier-%23090909?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="Prettier badge"/>
+    <img src="https://img.shields.io/badge/-Husky-%23090909?style=for-the-badge&logo=Husky&logoColor=FFFF56" alt="Husky badge"/>
+  </div>
+  <div>
     <p>
       🔔 Testing
       <img src="https://media.tenor.com/3nT-5pb890wAAAAj/sparkle.gif" width=32px>
