@@ -15,19 +15,39 @@ and musician all life long 🎼🎸🎤🎹🎹🎹🎹🎹🎹🎹🥁</p>
 
 <!--Languages and technologies start-->
 <section>
-<h2>🛠 Languages and technologies <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2>   
+<h2>🛠 Technical knowledge <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2>   
+<h3>📋 Languages <img src="https://media.tenor.com/3nT-5pb890wAAAAj/sparkle.gif" width=32px></h3>
 
 ![JavaScript](https://img.shields.io/badge/-javascript-%23090909?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-typescript-%23090909?style=for-the-badge&logo=typescript)
+![CSS3](https://img.shields.io/badge/css3-%23090909.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)
+![HTML5](https://img.shields.io/badge/-HTML5-%23090909?style=for-the-badge&logo=HTML5)
+![Python](https://img.shields.io/badge/python-%23090909?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<!--<h3>🚀 Frameworks, Platforms and Libraries <img src="https://media.tenor.com/3nT-5pb890wAAAAj/sparkle.gif" width=32px></h3> -->   
+<h3>🚀 Preprocessors <img src="https://media.tenor.com/3nT-5pb890wAAAAj/sparkle.gif" width=32px></h3>   
+
+![Scss](https://img.shields.io/badge/-scss-%23090909?style=for-the-badge&logo=sass)
+![Pug](https://img.shields.io/badge/Pug-CCC5B2?style=for-the-badge&logo=pug&logoColor=8F6905)     
+
+<h3>🔗 Bundlers and Task Runners <img src="https://media.tenor.com/3nT-5pb890wAAAAj/sparkle.gif" width=32px></h3>   
+
 ![Webpack](https://img.shields.io/badge/-webpack-%23090909?style=for-the-badge&logo=webpack)
 ![Gulp](https://img.shields.io/badge/-gulp-%23090909?style=for-the-badge&logo=gulp)
-![CSS3](https://img.shields.io/badge/css3-%23090909.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)
-![Scss](https://img.shields.io/badge/-scss-%23090909?style=for-the-badge&logo=sass)
-![HTML](https://img.shields.io/badge/-HTML5-%23090909?style=for-the-badge&logo=HTML5)
-![Pug](https://img.shields.io/badge/Pug-CCC5B2?style=for-the-badge&logo=pug&logoColor=8F6905)
-![Python](https://img.shields.io/badge/python-%23090909?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<h3>🔔 Testing <img src="https://media.tenor.com/3nT-5pb890wAAAAj/sparkle.gif" width=32px></h3>
+
+![Mocha](https://img.shields.io/badge/mocha-%23090909?style=for-the-badge&logo=mocha&logoColor=8d6748)
+![Chai](https://img.shields.io/badge/chai-%23090909?style=for-the-badge&logo=chai&logoColor=a40802)
+
+<h3>🕓 Version Control System <img src="https://media.tenor.com/3nT-5pb890wAAAAj/sparkle.gif" width=32px></h3>    
+
 ![Git](https://img.shields.io/badge/git-%23090909.svg?style=for-the-badge&logo=git&logoColor=white&logoColor=%23E34234)
+
+<h3>💻 IDEs/Editors <img src="https://media.tenor.com/3nT-5pb890wAAAAj/sparkle.gif" width=32px></h3>
+
 ![VSCode](https://img.shields.io/badge/VSCode-%23090909?style=for-the-badge&logo=visual%20studio%20code&logoColor=%231572B6)
+
 </section>
 <!--Languages and technologies end-->
 <!--Codewars info start-->
