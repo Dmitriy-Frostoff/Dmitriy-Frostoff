@@ -95,6 +95,7 @@
 <!--Contact me start-->
 <section>
   <h2> 📱 Contact me <img src='https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/handshake.gif' width="75" alt="handshake gif'"></h2>    
+  <a href="https://www.linkedin.com/in/dmitriy-frostoff/"><img src="https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin" alt="LinkedIn badge"></a>
   <a href="https://t.me/Dmitriy_Frostoff"><img src="https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram" alt="Telegram badge"></a>
   <a href="https://discord.com/channels/@Dmitriy-Frostoff#9603"><img src="https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord" alt="Discord badge"></a>
   <a href="https://www.codewars.com/users/rsschool_78dcfb24c923f558"><img src="https://img.shields.io/badge/-Codewars-090909?style=for-the-badge&logo=Codewars&logoColor=%23E34234" alt="Codewars badge"></a>
