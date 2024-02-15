@@ -66,6 +66,7 @@
       🔔 Testing
       <img src="https://media.tenor.com/3nT-5pb890wAAAAj/sparkle.gif" width="32" alt="sparkle gif">
     </span>
+    <img src="https://img.shields.io/badge/jest-%23090909?style=for-the-badge&logo=jest&logoColor=99424f" height="24" alt="Jest badge">
     <img src="https://img.shields.io/badge/mocha-%23090909?style=for-the-badge&logo=mocha&logoColor=8d6748" height="24" alt="Mocha badge">
     <img src="https://img.shields.io/badge/chai-%23090909?style=for-the-badge&logo=chai&logoColor=a40802" height="24" alt="Chai badge">
   </div>
