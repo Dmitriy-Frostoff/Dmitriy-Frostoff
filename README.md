@@ -35,15 +35,19 @@
   </div>
   <div>
     <span>
+      🚀 Frameworks
+      <img src="https://media.tenor.com/3nT-5pb890wAAAAj/sparkle.gif" width="32" alt="sparkle gif">
+    </span>
+    <img src="https://img.shields.io/badge/-react-%23090909?style=for-the-badge&logo=react" height="24" alt="React badge">
+  </div>
+  <div>
+    <span>
       🚀 Preprocessors
       <img src="https://media.tenor.com/3nT-5pb890wAAAAj/sparkle.gif" width="32" alt="sparkle gif">
     </span>
     <img src="https://img.shields.io/badge/-scss-%23090909?style=for-the-badge&logo=sass" height="24" alt="SCSS badge">
     <img src="https://img.shields.io/badge/Pug-CCC5B2?style=for-the-badge&logo=pug&logoColor=8F6905" height="24" alt="Pug badge">  
   </div>
-<!--   <div>
-    <span>🚀 Frameworks, Platforms and Libraries <img src="https://media.tenor.com/3nT-5pb890wAAAAj/sparkle.gif" width="32" alt="sparkle gif"></span alt="sparkle gif">   
-  </div> -->
   <div>
     <span>
       🔗 Bundlers and Task Runners
