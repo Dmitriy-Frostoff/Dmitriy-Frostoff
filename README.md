@@ -43,14 +43,14 @@
   </div>
   <div>
     <span>
-      🚀 Frameworks
+      🛰️ Frameworks
       <img src="https://media.tenor.com/3nT-5pb890wAAAAj/sparkle.gif" width="32" alt="sparkle gif">
     </span>
     <img src="https://img.shields.io/badge/-react-%23090909?style=for-the-badge&logo=react" height="24" alt="React badge">
   </div>
   <div>
     <span>
-      🔗 Bundlers and Task Runners
+      🥤 Bundlers and Task Runners
       <img src="https://media.tenor.com/3nT-5pb890wAAAAj/sparkle.gif" width="32" alt="sparkle gif">
     </span>
     <img src="https://img.shields.io/badge/-webpack-%23090909?style=for-the-badge&logo=webpack" height="24" alt="Webpack badge">
@@ -68,7 +68,7 @@
   </div>
   <div>
     <span>
-      🔔 Testing
+      🃏 Testing
       <img src="https://media.tenor.com/3nT-5pb890wAAAAj/sparkle.gif" width="32" alt="sparkle gif">
     </span>
     <img src="https://img.shields.io/badge/-TestingLibrary-%23090909?style=for-the-badge&logo=testing-library&logoColor=99424f" height="24" alt="Testing-library badge">
@@ -78,7 +78,7 @@
   </div>
   <div>
     <span>
-      🕓 Version Control System
+      🕓 Version Control System (VCS)
       <img src="https://media.tenor.com/3nT-5pb890wAAAAj/sparkle.gif" width="32" alt="sparkle gif">
     </span>    
     <img src="https://img.shields.io/badge/git-%23090909.svg?style=for-the-badge&logo=git&logoColor=white&logoColor=%23E34234" height="24" alt="Git badge">
@@ -88,7 +88,15 @@
       💻 IDEs/Editors
       <img src="https://media.tenor.com/3nT-5pb890wAAAAj/sparkle.gif" width="32" alt="sparkle gif">
     </span>
-    <img src="https://img.shields.io/badge/VSCode-%23090909?style=for-the-badge&logo=visual%20studio%20code&logoColor=%231572B6" height="24" alt="VSCode badge">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23090909?style=for-the-badge&logo=visual%20studio%20code&logoColor=%231572B6" height="24" alt="VSCode badge">
+  </div>
+  <div>
+    <span>
+      🎨 Design applications
+      <img src="https://media.tenor.com/3nT-5pb890wAAAAj/sparkle.gif" width="32" alt="sparkle gif">
+    </span>
+    <img src="https://img.shields.io/badge/-figma-%23090909?style=for-the-badge&logo=figma&logoColor=%23F24E1E" height="24" alt="VSCode badge">
+    <img src="https://img.shields.io/badge/-adobePhotoshop-%23090909?style=for-the-badge&logo=adobePhotoshop&logoColor=%231572B6" height="24" alt="VSCode badge">
   </div>
 </section>
 <!--Languages and technologies end-->
