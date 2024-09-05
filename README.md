@@ -71,6 +71,7 @@
       🔔 Testing
       <img src="https://media.tenor.com/3nT-5pb890wAAAAj/sparkle.gif" width="32" alt="sparkle gif">
     </span>
+    <img src="https://img.shields.io/badge/-TestingLibrary-%23090909?style=for-the-badge&logo=testing-library&logoColor=99424f" height="24" alt="Testing-library badge">
     <img src="https://img.shields.io/badge/jest-%23090909?style=for-the-badge&logo=jest&logoColor=99424f" height="24" alt="Jest badge">
     <img src="https://img.shields.io/badge/mocha-%23090909?style=for-the-badge&logo=mocha&logoColor=8d6748" height="24" alt="Mocha badge">
     <img src="https://img.shields.io/badge/chai-%23090909?style=for-the-badge&logo=chai&logoColor=a40802" height="24" alt="Chai badge">
@@ -115,9 +116,10 @@
 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dmitriy-Frostoff&show_icons=true&theme=tokyonight&count_private=true" alt="Dmitriy Frostoff's GitHub stats">
 
-  <a href="https://github.com/Dmitriy-Frostoff"></a>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmitriy-Frostoff&theme=tokyonight&layout=compact" alt="profile-details">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dmitriy-Frostoff&theme=tokyonight" alt="repos-per-language">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dmitriy-Frostoff&theme=tokyonight" alt="repos-per-commits">
+<a href="https://github.com/Dmitriy-Frostoff"></a>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmitriy-Frostoff&theme=tokyonight&layout=compact" alt="profile-details">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dmitriy-Frostoff&theme=tokyonight" alt="repos-per-language">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dmitriy-Frostoff&theme=tokyonight" alt="repos-per-commits">
+
 </section>
 <!--GitHub Stats end-->
