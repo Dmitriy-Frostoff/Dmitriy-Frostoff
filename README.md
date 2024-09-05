@@ -35,18 +35,18 @@
   </div>
   <div>
     <span>
-      🚀 Frameworks
-      <img src="https://media.tenor.com/3nT-5pb890wAAAAj/sparkle.gif" width="32" alt="sparkle gif">
-    </span>
-    <img src="https://img.shields.io/badge/-react-%23090909?style=for-the-badge&logo=react" height="24" alt="React badge">
-  </div>
-  <div>
-    <span>
       🚀 Preprocessors
       <img src="https://media.tenor.com/3nT-5pb890wAAAAj/sparkle.gif" width="32" alt="sparkle gif">
     </span>
     <img src="https://img.shields.io/badge/-scss-%23090909?style=for-the-badge&logo=sass" height="24" alt="SCSS badge">
     <img src="https://img.shields.io/badge/Pug-CCC5B2?style=for-the-badge&logo=pug&logoColor=8F6905" height="24" alt="Pug badge">  
+  </div>
+  <div>
+    <span>
+      🚀 Frameworks
+      <img src="https://media.tenor.com/3nT-5pb890wAAAAj/sparkle.gif" width="32" alt="sparkle gif">
+    </span>
+    <img src="https://img.shields.io/badge/-react-%23090909?style=for-the-badge&logo=react" height="24" alt="React badge">
   </div>
   <div>
     <span>
@@ -95,7 +95,7 @@
 <!--Codewars info start-->
 <section>
   <h2>
-    <img src="https://camo.githubusercontent.com/b5b4d91ce895d7f23d42e7158dbef776c2037e8b304cb0d960f3cb7311db43a0/68747470733a2f2f6769742e696f2f4a4d643461" alt="codewars logo" width="32"> Codewars stats &nbsp;<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFlODRhM2I5M2EzN2JjNjhiMzkyZjg1OWNlMGI5NmQ5NzdlMmUyMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/A06UFEx8jxEwU/giphy.gif" width="48" alt="strings of code runnig up - down as in matrix"></h2>
+    <img src="https://dmitriy-frostoff.github.io/rsschool-cv/src/shared/assets/images/svg/contacts/codewars.b62e.gif" alt="codewars logo" width="32"> Codewars stats &nbsp;<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFlODRhM2I5M2EzN2JjNjhiMzkyZjg1OWNlMGI5NmQ5NzdlMmUyMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/A06UFEx8jxEwU/giphy.gif" width="48" alt="strings of code runnig up - down as in matrix"></h2>
   <a href="https://www.codewars.com/users/rsschool_78dcfb24c923f558" target="_blank"><img src="https://www.codewars.com/users/rsschool_78dcfb24c923f558/badges/large" alt="Dmitriy Frsotoff's codewars stats badge"></a>
 </section>
 <!--Codewars info end-->
@@ -113,13 +113,10 @@
 <!--GitHub Stats start-->
 <section>
   <h2> GitHub Stats <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif" width="32" alt="GitHub logo"> </h2>
-
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dmitriy-Frostoff&show_icons=true&theme=tokyonight&count_private=true" alt="Dmitriy Frostoff's GitHub stats">
-
-<a href="https://github.com/Dmitriy-Frostoff"></a>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmitriy-Frostoff&theme=tokyonight&layout=compact" alt="profile-details">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dmitriy-Frostoff&theme=tokyonight" alt="repos-per-language">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dmitriy-Frostoff&theme=tokyonight" alt="repos-per-commits">
-
+  <a href="https://github.com/Dmitriy-Frostoff"></a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmitriy-Frostoff&theme=tokyonight&layout=compact" alt="profile-details">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dmitriy-Frostoff&theme=tokyonight" alt="repos-per-language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dmitriy-Frostoff&theme=tokyonight" alt="repos-per-commits">
 </section>
 <!--GitHub Stats end-->
