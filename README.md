@@ -32,6 +32,7 @@
     <img src="https://img.shields.io/badge/css3-%23090909.svg?style=for-the-badge&logo=css3&logoColor=%231572B6" height="24" alt="CSS3 badge">
     <img src="https://img.shields.io/badge/-HTML5-%23090909?style=for-the-badge&logo=HTML5" height="24" alt="HTML5 badge">
     <img src="https://img.shields.io/badge/python-%23090909?style=for-the-badge&logo=python&logoColor=ffdd54" height="24" alt="Python badge">
+    <img src="https://img.shields.io/badge/Regex-%23090909?style=for-the-badge&logo=Regex&logoColor=ffdd54" height="24" alt="Regex badge">
   </div>
   <div>
     <span>
@@ -75,6 +76,14 @@
     <img src="https://img.shields.io/badge/jest-%23090909?style=for-the-badge&logo=jest&logoColor=99424f" height="24" alt="Jest badge">
     <img src="https://img.shields.io/badge/mocha-%23090909?style=for-the-badge&logo=mocha&logoColor=8d6748" height="24" alt="Mocha badge">
     <img src="https://img.shields.io/badge/chai-%23090909?style=for-the-badge&logo=chai&logoColor=a40802" height="24" alt="Chai badge">
+  </div>
+  <div>
+    <span>
+      📜 Documenting
+      <img src="https://media.tenor.com/3nT-5pb890wAAAAj/sparkle.gif" width="32" alt="sparkle gif">
+    </span>    
+    <img src="https://img.shields.io/badge/JSDoc-%23090909.svg?style=for-the-badge&logo=JSDoc&logoColor=white&logoColor=%23E34234" height="24" alt="JSDoc badge">
+    <img src="https://img.shields.io/badge/Markdown-%23090909.svg?style=for-the-badge&logo=Markdown&logoColor=white&logoColor=%23E34234" height="24" alt="Markdown badge">
   </div>
   <div>
     <span>
