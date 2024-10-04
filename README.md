@@ -63,6 +63,7 @@
       <img src="./src/images/spark_twinkle.gif" width="32" alt="sparkle gif">
     </span>
     <img src="https://img.shields.io/badge/-ESLint-%23090909?style=for-the-badge&logo=ESLint&logoColor=341BAB" height="24" alt="ESLint badge">
+    <img src="https://img.shields.io/badge/-Airbnb-%23090909?style=for-the-badge&logo=Airbnb&logoColor=23ff5a5f" height="24" alt="Airbnb badge">
     <img src="https://img.shields.io/badge/-prettier-%23090909?style=for-the-badge&logo=prettier&logoColor=F7BA3E" height="24" alt="Prettier badge">
     <img src="https://img.shields.io/badge/-Husky-%23090909?style=for-the-badge&logo=Husky&logoColor=FFFF56" height="24" alt="Husky badge">
     <img src="https://img.shields.io/badge/-Babel-%23090909?style=for-the-badge&logo=Babel&logoColor=FFFF56" height="24" alt="Babel badge">
