@@ -130,10 +130,9 @@
 <!--GitHub Stats start-->
 <section>
   <h2> GitHub Stats <img src="./src/images/github_logo.gif" width="32" alt="GitHub logo"> </h2>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dmitriy-Frostoff&show_icons=true&theme=tokyonight&count_private=true" alt="Dmitriy Frostoff's GitHub stats">
-  <a href="https://github.com/Dmitriy-Frostoff"></a>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmitriy-Frostoff&theme=tokyonight&layout=compact" alt="profile-details">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dmitriy-Frostoff&theme=tokyonight" alt="repos-per-language">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dmitriy-Frostoff&theme=tokyonight" alt="repos-per-commits">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dmitriy-Frostoff&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&border_color=bb9af7" alt="Dmitriy Frostoff's GitHub stats">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dmitriy-Frostoff&theme=tokyonight&hide_border=false&border=73daca" alt="profile-details-streaks">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitriy-Frostoff&layout=compact&theme=tokyonight&border_color=73daca" alt="the-most-used-languages">
+  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmitriy-Frostoff&theme=tokyonight&layout=compact" alt="profile-details">
 </section>
 <!--GitHub Stats end-->
