@@ -4,14 +4,14 @@
 <!--about me start-->
 <section>
   <h2>About me</h2>    
-  <span>I'm Dmitriy Morozov (or as I prefer in most conditions Dmitriy Frostoff) <img src="./src/images/smile_with_eyeglasses.gif" height="32" width="32" alt="badass smile winking"><br>
+  <span>I'm Dmitriy Morozov (a.k.a Dmitriy Frostoff). <img src="./src/images/smile_with_eyeglasses.gif" height="32" width="32" alt="badass smile winking"><br>
   Civil construction engineer in the past, <br>
   Frontend developer in present <br>
   and musician all life long 🎼🎸🎤🎹🎹🎹🎹🎹🎹🎹🥁</span>
   <p>
     <img src="./src/images/facts.gif" height="32" alt="facts word animated">
     <br>
-    Positive, sympathetic, responsible, friendly person that likes learning how to learn to reach mastery in interesting business.
+    Positive, sympathetic, responsible, friendly person that likes learning how to learn and applying this skill for reaching mastery in interesting business!))
   </p>
   <img src="./src/images/grogu_to_journey.gif" alt="Grogu enjoy trip" height="75"> <img src="./src/images/grogu_meditation.gif" alt="Grogu meditate" height="75">
 </section>
@@ -56,6 +56,7 @@
     </span>
     <img src="https://img.shields.io/badge/-webpack-%23090909?style=for-the-badge&logo=webpack" height="24" alt="Webpack badge">
     <img src="https://img.shields.io/badge/-gulp-%23090909?style=for-the-badge&logo=gulp" height="24" alt="Gulp badge">
+    <img src="https://img.shields.io/badge/-execa-%23090909?style=for-the-badge&logo=execa" height="24" alt="Execa badge">
   </div>
   <div>
     <span>
@@ -84,6 +85,7 @@
       <img src="./src/images/spark_twinkle.gif" width="32" alt="sparkle gif">
     </span>    
     <img src="https://img.shields.io/badge/JSDoc-%23090909.svg?style=for-the-badge&logo=JSDoc&logoColor=white&logoColor=%23E34234" height="24" alt="JSDoc badge">
+    <img src="https://img.shields.io/badge/TSDoc-%23090909.svg?style=for-the-badge&logo=TSDoc&logoColor=white&logoColor=%23E34234" height="24" alt="TSDoc badge">
     <img src="https://img.shields.io/badge/Markdown-%23090909.svg?style=for-the-badge&logo=Markdown&logoColor=white&logoColor=%23E34234" height="24" alt="Markdown badge">
   </div>
   <div>
