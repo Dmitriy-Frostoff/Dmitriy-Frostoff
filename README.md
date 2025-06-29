@@ -29,10 +29,11 @@
     </span>
     <img src="https://img.shields.io/badge/-javascript-%23090909?style=for-the-badge&logo=javascript" height="24" alt="JavaScript badge">
     <img src="https://img.shields.io/badge/-typescript-%23090909?style=for-the-badge&logo=typescript" height="24" alt="TypeScript badge">
-    <img src="https://img.shields.io/badge/css3-%23090909.svg?style=for-the-badge&logo=css3&logoColor=%231572B6" height="24" alt="CSS3 badge">
+    <img src="https://img.shields.io/badge/css-%23090909.svg?style=for-the-badge&logo=css&logoColor=%23663399" height="24" alt="CSS3 badge">
     <img src="https://img.shields.io/badge/-HTML5-%23090909?style=for-the-badge&logo=HTML5" height="24" alt="HTML5 badge">
     <img src="https://img.shields.io/badge/python-%23090909?style=for-the-badge&logo=python&logoColor=ffdd54" height="24" alt="Python badge">
     <img src="https://img.shields.io/badge/Regex-%23090909?style=for-the-badge&logo=Regex&logoColor=ffdd54" height="24" alt="Regex badge">
+    <img src="https://img.shields.io/badge/-C-%23090909?style=for-the-badge&logo=C&logoColor=0078D4" height="24" alt="C badge">
   </div>
   <div>
     <span>
@@ -57,6 +58,8 @@
     <img src="https://img.shields.io/badge/-webpack-%23090909?style=for-the-badge&logo=webpack" height="24" alt="Webpack badge">
     <img src="https://img.shields.io/badge/-gulp-%23090909?style=for-the-badge&logo=gulp" height="24" alt="Gulp badge">
     <img src="https://img.shields.io/badge/-execa-%23090909?style=for-the-badge&logo=execa" height="24" alt="Execa badge">
+    <img src="https://img.shields.io/badge/-CMake-%23090909?style=for-the-badge&logo=CMake&logoColor=0078D4" height="24" alt="CMake badge">
+    <img src="https://img.shields.io/badge/-ninja-%23090909?style=for-the-badge&logo=ninja" height="24" alt="Ninja badge">
   </div>
   <div>
     <span>
@@ -68,6 +71,11 @@
     <img src="https://img.shields.io/badge/-prettier-%23090909?style=for-the-badge&logo=prettier&logoColor=F7BA3E" height="24" alt="Prettier badge">
     <img src="https://img.shields.io/badge/Husky-%23090909?style=for-the-badge&logo=furrynetwork&logoColor=F05032" height="24" alt="Husky badge">
     <img src="https://img.shields.io/badge/-Babel-%23090909?style=for-the-badge&logo=Babel&logoColor=FFFF56" height="24" alt="Babel badge">
+     <img src="https://img.shields.io/badge/-clang--tidy-%23090909?style=for-the-badge&logo=clang-tidy" height="24" alt="clang-tidy badge">
+    <img src="https://img.shields.io/badge/-clang--format-%23090909?style=for-the-badge&logo=clang-format" height="24" alt="Clang-format badge">
+    <img src="https://img.shields.io/badge/-mozilla--custom-%23090909?style=for-the-badge&logo=mozilla--custom" height="24" alt="mozilla-custom badge">
+    <img src="https://img.shields.io/badge/-K&R--style-%23090909?style=for-the-badge&logo=K&R--style" height="24" alt="K&R-style badge">
+    <img src="https://img.shields.io/badge/-clangd-%23090909?style=for-the-badge&logo=clangd" height="24" alt="clangd badge">
   </div>
   <div>
     <span>
@@ -87,6 +95,8 @@
     <img src="https://img.shields.io/badge/JSDoc-%23090909.svg?style=for-the-badge&logo=JSDoc&logoColor=white&logoColor=%23E34234" height="24" alt="JSDoc badge">
     <img src="https://img.shields.io/badge/TSDoc-%23090909.svg?style=for-the-badge&logo=TSDoc&logoColor=white&logoColor=%23E34234" height="24" alt="TSDoc badge">
     <img src="https://img.shields.io/badge/Markdown-%23090909.svg?style=for-the-badge&logo=Markdown&logoColor=white&logoColor=%23E34234" height="24" alt="Markdown badge">
+    <img src="https://img.shields.io/badge/-docstring-%23090909?style=for-the-badge&logo=docstring" height="24" alt="docstring badge">
+    <img src="https://img.shields.io/badge/-doxygen-%23090909?style=for-the-badge&logo=doxygen" height="24" alt="doxygen badge">
   </div>
   <div>
     <span>
@@ -107,8 +117,9 @@
       🎨 Design applications
       <img src="./src/images/spark_twinkle.gif" width="32" alt="sparkle gif">
     </span>
-    <img src="https://img.shields.io/badge/-figma-%23090909?style=for-the-badge&logo=figma&logoColor=%23F24E1E" height="24" alt="VSCode badge">
-    <img src="https://img.shields.io/badge/-adobePhotoshop-%23090909?style=for-the-badge&logo=adobePhotoshop&logoColor=%231572B6" height="24" alt="VSCode badge">
+    <img src="https://img.shields.io/badge/-figma-%23090909?style=for-the-badge&logo=figma&logoColor=F24E1E" height="24" alt="Figma badge">
+    <img src="https://img.shields.io/badge/-pixso-%23090909?style=for-the-badge&logo=pixso&logoColor=472C6A" height="24" alt="Pixso badge">
+    <img src="https://img.shields.io/badge/-adobe%20photoshop-%23090909?style=for-the-badge&logo=adobe%20photoshop&logoColor=1572B6" height="24" alt="Adobe Photoshop badge">
   </div>
 </section>
 <!--Languages and technologies end-->
