@@ -134,7 +134,7 @@
 <section>
   <h2> 📱 Contact me <img src='./src/images/handshake.gif' width="75" alt="handshake gif'"></h2>    
   <a href="https://www.linkedin.com/in/dmitriy-frostoff/"><img src="https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin" alt="LinkedIn badge"></a>
-  <a href="https://www.instagram.com/dmitriy.frostoff/"><img src="https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram" alt="Instagram badge"></a>
+  <a href="https://www.instagram.com/dmitriy.frostoff/"><img src="https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram&logoColor=%23e56969" alt="Instagram badge"></a>
   <a href="https://t.me/Dmitriy_Frostoff"><img src="https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram" alt="Telegram badge"></a>
   <a href="https://discord.com/channels/@Dmitriy-Frostoff#9603"><img src="https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord" alt="Discord badge"></a>
   <a href="https://www.codewars.com/users/rsschool_78dcfb24c923f558"><img src="https://img.shields.io/badge/-Codewars-090909?style=for-the-badge&logo=Codewars&logoColor=%23E34234" alt="Codewars badge"></a>
