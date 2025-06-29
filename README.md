@@ -133,12 +133,12 @@
 <!--Contact me start-->
 <section>
   <h2> 📱 Contact me <img src='./src/images/handshake.gif' width="75" alt="handshake gif'"></h2>    
-  <a href="https://www.linkedin.com/in/dmitriy-frostoff/"><img src="https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin" alt="LinkedIn badge"></a>
-  <a href="https://www.instagram.com/dmitriy.frostoff/"><img src="https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram&logoColor=%23e56969" alt="Instagram badge"></a>
-  <a href="https://t.me/Dmitriy_Frostoff"><img src="https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram" alt="Telegram badge"></a>
-  <a href="https://discord.com/channels/@Dmitriy-Frostoff#9603"><img src="https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord" alt="Discord badge"></a>
-  <a href="https://www.codewars.com/users/rsschool_78dcfb24c923f558"><img src="https://img.shields.io/badge/-Codewars-090909?style=for-the-badge&logo=Codewars&logoColor=%23E34234" alt="Codewars badge"></a>
-  <a href="https://stackoverflow.com/users/20705648/dmitriy-frostoff"><img src="https://img.shields.io/badge/-Stackoverflow-090909?style=for-the-badge&logo=stack-overflow&logoColor=%23FF4433" alt="Stack Overflow badge"></a>
+  <a href="https://www.linkedin.com/in/dmitriy-frostoff/"><img height="28" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%23090909?logo=linkedin-white&logoColor=0077B5" alt="LinkedIn badge"></a>
+  <a href="https://www.instagram.com/dmitriy.frostoff/"><img height="28" src="https://img.shields.io/badge/-instagram-%23090909?style=for-the-badge&logo=instagram&logoColor=%23e56969" alt="Instagram badge"></a>
+  <a href="https://t.me/Dmitriy_Frostoff"><img height="28" src="https://img.shields.io/badge/-telegram-%23090909?style=for-the-badge&logo=telegram" alt="Telegram badge"></a>
+  <a href="https://discord.com/channels/@Dmitriy-Frostoff#9603"><img height="28" src="https://img.shields.io/badge/-Discord-%23090909?style=for-the-badge&logo=Discord" alt="Discord badge"></a>
+  <a href="https://www.codewars.com/users/rsschool_78dcfb24c923f558"><img height="28" src="https://img.shields.io/badge/-Codewars-%23090909?style=for-the-badge&logo=Codewars&logoColor=%23E34234" alt="Codewars badge"></a>
+  <a href="https://stackoverflow.com/users/20705648/dmitriy-frostoff"><img height="28" src="https://img.shields.io/badge/-Stackoverflow-%23090909?style=for-the-badge&logo=stack-overflow&logoColor=%23FF4433" alt="Stack Overflow badge"></a>
 </section>
 <!--Contact me end-->
 <!--GitHub Stats start-->
