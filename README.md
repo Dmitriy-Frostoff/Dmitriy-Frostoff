@@ -63,6 +63,13 @@
   </div>
   <div>
     <span>
+      🛠️ Shell
+      <img src="./src/images/spark_twinkle.gif" width="32" alt="sparkle gif">
+    </span>
+    <img src="https://img.shields.io/badge/-bash_script-%23090909?style=for-the-badge&logo=gnu-bash&logoColor=white" height="24" alt="bash_script badge">
+  </div>
+  <div>
+    <span>
       📐 Code formatting
       <img src="./src/images/spark_twinkle.gif" width="32" alt="sparkle gif">
     </span>
