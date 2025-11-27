@@ -6,7 +6,7 @@
   <h2>About me</h2>    
   <span>I'm Dmitriy Morozov (a.k.a Dmitriy Frostoff). <img src="./src/images/smile_with_eyeglasses.gif" height="32" width="32" alt="badass smile winking"><br>
   Civil construction engineer in the past, <br>
-  Frontend developer in present <br>
+  Software Engineer in present <br>
   and musician all life long 🎼🎸🎤🎹🎹🎹🎹🎹🎹🎹🥁</span>
   <p>
     <img src="./src/images/facts.gif" height="32" alt="facts word animated">
