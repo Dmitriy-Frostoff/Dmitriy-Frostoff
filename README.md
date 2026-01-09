@@ -60,6 +60,7 @@
     <img src="https://img.shields.io/badge/-execa-%23090909?style=for-the-badge&logo=execa" height="24" alt="Execa badge">
     <img src="https://img.shields.io/badge/-CMake-%23090909?style=for-the-badge&logo=CMake&logoColor=0078D4" height="24" alt="CMake badge">
     <img src="https://img.shields.io/badge/-ninja-%23090909?style=for-the-badge&logo=ninja" height="24" alt="Ninja badge">
+    <img src="https://img.shields.io/badge/-GNU_Make-%23090909?style=for-the-badge&logo=GNU_Make&logoColor=0078D4" height="24" alt="GNU_Make badge">
   </div>
   <div>
     <span>
